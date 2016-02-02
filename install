@@ -1,0 +1,9 @@
+#!/bin/bash
+
+mv ~/.bashrc ~/.bashrc-backup
+cp .bashrc ~/
+cp -R .config ~/
+cp .gitconfig ~/
+cp -R .vim ~/
+cp .vimrc ~/
+

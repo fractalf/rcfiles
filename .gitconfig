@@ -1,0 +1,7 @@
+[user]
+        name = fractalf
+        email = post@alfmarius.net
+[push]
+	default = simple
+[diff]
+	renameLimit = 9000
