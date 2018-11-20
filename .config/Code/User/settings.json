@@ -1,0 +1,24 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "editor.renderWhitespace": "all",
+    "editor.tokenColorCustomizations": {
+        "comments": "#575757",
+    },
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#363636",
+        "editor.selectionHighlightBackground": "#363636",
+        "tab.activeBackground": "#4b4b4b"
+    },
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.startupEditor": "newUntitledFile",
+    "prettier.singleQuote": true,
+    "prettier.printWidth": 120,
+    "prettier.tabWidth": 4,
+    "eslint.workingDirectories": [
+        "./lf/active"
+    ],
+    "vetur.format.defaultFormatter.html": "prettier",
+    "python.linting.pylintPath": "/usr/local/bin/pylint",
+    "python.pythonPath": "/usr/bin/python3",
+}
